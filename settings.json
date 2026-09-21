@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "s3f.play.hosting",
-    "port": ,
-    "version": "",
+    "port": 19132,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
