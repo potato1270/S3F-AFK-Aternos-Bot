@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Baklh_bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Baklh_bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "s3f.play.hosting",
+    "port": ,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "12341234"
     },
     "anti-afk": {
       "enabled": true,
@@ -28,12 +28,12 @@
     },
     "chat-messages": {
       "enabled": true,
-      "repeat": true,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "/register 12341234 12341234",
+        "/register 12341234 12341234",
+        "I like cats!"
       ]
     },
     "chat-log": true,
